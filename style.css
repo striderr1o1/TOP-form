@@ -99,3 +99,6 @@ form label{
   padding: 10px 20px 10px 20px;
   border-radius: 20px;
 }
+input:invalid{
+  border-color: red;
+}
